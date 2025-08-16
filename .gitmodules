@@ -1,0 +1,12 @@
+[submodule "robot"]
+	path = robot
+	url = https://github.com/VazRibeiro/evabot-robot
+[submodule "hub"]
+	path = hub
+	url = https://github.com/VazRibeiro/evabot-hub
+[submodule "backend"]
+	path = backend
+	url = https://github.com/VazRibeiro/evabot-backend
+[submodule "ui"]
+	path = ui
+	url = https://github.com/VazRibeiro/evabot-ui
